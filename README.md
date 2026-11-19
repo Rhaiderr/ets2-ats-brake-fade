@@ -9,6 +9,10 @@
 
 ![Brake Fade promotional artwork showing a truck with hot brakes on a Brazilian mountain road](https://rhaiderr.github.io/mod-hub/assets/brake-fade.jpg)
 
+## In-game screenshots · Capturas do jogo
+
+![Fumaça dos freios junto às rodas de uma carreta Guerra no Euro Truck Simulator 2](docs/images/brake-smoke-guerra.jpg)
+
 ## English
 
 On long descents, repeated service braking heats the brakes. Brake Fade simulates the resulting loss of braking power and recovery as the brakes cool. The truck and attached trailers have separate temperatures and smoke effects. The HUD shows temperatures and remaining braking efficiency.
@@ -50,5 +54,3 @@ Em descidas longas, o uso repetido do freio de serviço aquece os freios. O Brak
 No menu, ajuste aquecimento, resfriamento, curva de perda de eficiência, fumaça, avisos, tamanho e posição do HUD. O preset padrão começa a reduzir a eficiência a 300 °C e chega a 25% de eficiência restante a 600 °C. O áudio opcional precisa dos WAVs PCM16 locais `sounds/BrakeFadeBR/brake_low.wav` e `sounds/BrakeFadeBR/brake_high.wav` ao lado da DLL.
 
 Para desinstalar, feche o jogo e remova `brake_fade_br.dll` de `bin/win_x64/plugins`. Para voltar à versão anterior, restaure os arquivos de `plugins/backups/BrakeFadeBR/`.
-
-<!-- Adicionar prints do jogo quando estiverem disponíveis. -->
