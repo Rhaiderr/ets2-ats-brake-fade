@@ -2,6 +2,9 @@
 
 [English](#english) · [Português (Brasil)](#português-brasil)
 
+[![Download ets2-ats-brake-fade.zip](https://img.shields.io/badge/Download%20ets2--ats--brake--fade.zip-v0.4.0--rc6-2ea44f?style=for-the-badge&logo=github)](https://github.com/Rhaiderr/ets2-ats-brake-fade/releases/download/v0.4.0-rc6/ets2-ats-brake-fade.zip)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/leonardoarouck)
+
 **[⬇ Download Brake Fade 0.4.0-rc6 (ZIP)](https://github.com/Rhaiderr/ets2-ats-brake-fade/releases/download/v0.4.0-rc6/ets2-ats-brake-fade.zip)** · [Release notes](https://github.com/Rhaiderr/ets2-ats-brake-fade/releases/tag/v0.4.0-rc6) · [ModHub](https://rhaiderr.github.io/mod-hub/)
 
 ![Brake Fade promotional artwork showing a truck with hot brakes on a Brazilian mountain road](https://rhaiderr.github.io/mod-hub/assets/brake-fade.jpg)
