@@ -70,4 +70,4 @@ Para desinstalar, feche o jogo e remova `brake_fade_br.dll` de `bin/win_x64/plug
 
 ![Brake Fade promotional artwork showing a truck with hot brakes on a Brazilian mountain road](https://rhaiderr.github.io/mod-hub/assets/brake-fade.jpg)
 
-[Buy Me a Coffee / Apoie o projeto](https://buymeacoffee.com/leonardoarouck)
+<a href="https://buymeacoffee.com/leonardoarouck"><img src="https://rhaiderr.github.io/mod-hub/assets/buy-me-a-coffee.png" alt="Buy Me a Coffee" width="168"></a>
